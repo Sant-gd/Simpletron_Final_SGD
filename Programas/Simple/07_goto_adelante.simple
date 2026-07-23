@@ -1,0 +1,5 @@
+10 input a
+20 goto 40
+30 input b
+40 print a
+50 end

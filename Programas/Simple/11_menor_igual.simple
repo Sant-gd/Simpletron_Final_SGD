@@ -1,0 +1,8 @@
+10 input a
+20 input b
+30 if a <= b goto 60
+40 let c = 0
+50 goto 70
+60 let c = 1
+70 print c
+80 end
